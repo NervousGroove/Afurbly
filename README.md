@@ -25,6 +25,6 @@ Recommended Customized Background Size: 857px x 480px
 # IMPORTANT INFORMATION
 The CC-NC-ND License and its restrictions apply only to Afurbly's source code. You can create free installers and distribute as you wish, but it is prohibited to modify the source code and distribute, if you are going to distribute the source code (package.nw) you must give credits, but if you modify the source code, even credits will not allow you to distribute the source code. IT IS EXTREMELY PROHIBITED TO DISTRIBUTE THE MODIFIED SOURCE CODE, ACCORDING TO THE CC-NC-ND LICENSE. IF YOU DISTRIBUTE THE SOURCE CODE WITHOUT MODIFICATION, YOU ARE STILL RESTRICTED, AND YOU MUST GIVE PROPER CREDIT TO SWANKYNOOB AND THE LICENSE.
 
-![alt text](https://github.com/NervousGroove/SpellMax/blob/main/SpellMax.png)
+![alt text](https://raw.githubusercontent.com/NervousGroove/Afurbly/main/afurbly_icon.png)
 
 ---> ALL RIGHTS RESERVED, SWANKYNOOB INC. | ESTABLISHED AND MANAGED BY Wesley YAN Soares Brehmer
