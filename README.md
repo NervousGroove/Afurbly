@@ -2,6 +2,8 @@
 Afurbly is a software for developers to create installers/setups, for their programs and games. Besides being lightweight, fast, free and open-source, Afurbly requires no programming and has dozens of user languages from around the world.
 Afurbly uses the LubryZT understanding, created by SwankyNoob, which allows the user's program/game files to be compressed and stored within Afurbly itself, and will be protected, encrypted and stored until the user runs the installer.
 
+Compatibility: Windows 7, Windows 8, Windows 8.1, Windows RT, Windows 10, and Windows 11.
+
 # 📖 LICENSE
 Afurbly is under the CC-NC-ND license. It is open-source, but has many restrictions and does not accept contributions.
 
