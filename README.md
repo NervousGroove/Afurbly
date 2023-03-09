@@ -8,7 +8,7 @@ Afurbly is under the CC-NC-ND license. It is open-source, but has many restricti
 # 🍸 REQUIRES NWJS
 For the operation of Afurbly, NWjs is required, to download and read the NWjs documentation, go to nwjs.io!
 
-# 🧃 HOW TO USE
+# ☂️ HOW TO USE
 It's pretty simple to use Afurbly. You are required to edit 2 files, and there is another optional file. You must edit the following files:
 AppName.afurbly and terms.afurbly
 The file "AppName.afurbly" must be edited with the name of your program. You must only put the name of your program and nothing else. The file "terms.afurbly" you must put the terms of your program, editing this file is also mandatory, otherwise Afurbly will not work. There is a file you can create (it is not created automatically), the file "bg.afurbly" can be created by you (optionally) to add a background image instead of the black screen (which comes as default). If you want to add a background image, you must create the file "bg.afurbly" and simply add the URL/link of the image, and nothing else.
