@@ -1,4 +1,4 @@
-# 🥤 Afurbly
+# 🥤 Afurbly (Windows only)
 Afurbly is a software for developers to create installers/setups, for their programs and games. Besides being lightweight, fast, free and open-source, Afurbly requires no programming and has dozens of user languages from around the world.
 Afurbly uses the LubryZT understanding, created by SwankyNoob, which allows the user's program/game files to be compressed and stored within Afurbly itself, and will be protected, encrypted and stored until the user runs the installer.
 
