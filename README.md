@@ -20,4 +20,6 @@ MyProgram.zip
 -------------------
 Note that when you finish everything, and run your installer, the file "main.zip" that you created, will no longer exist. This is because your program files are moved into Afurbly, and are encrypted, stored, compressed and hidden, thanks to SwankyNoob's LubryZT technology.
 
+Recommended Customized Background Size: 857px x 480px
+
 ---> ALL RIGHTS RESERVED, SWANKYNOOB INC. | ESTABLISHED AND MANAGED BY Wesley YAN Soares Brehmer
