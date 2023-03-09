@@ -17,6 +17,7 @@ Here is how it should look like:
 MyProgram.zip
 > Setup.exe
 > engine > main.zip, setup_myprogram.exe, locales, AppNams.afurbly, terms.afurbly, bg.afurbly...
+In this repository, there is a folder called "distribution" in which you can create a KLC file, and distribute it to Windows. To start the distribution, download this repository and access the folder "distribution", and the subfolder "Create KLC file", in this subfolder, paste a .ZIP file from the installer folder (already configured and with your program files added), after paste the ZIP file, run the file "Create KLC.exe" and voila! Your .ZIP file will be a .KLC file! After converting ZIP to KLC, go to the folder "Distribute via KLC file" (still in the "distribution" folder) and paste the .KLC file (that was converted before) and you are done! With these two files (the engine.klc file and the .exe file) you can distribute your program! The .exe file can be renamed as you want, but the KLC file must be called "engine.klc". You can now distribute your program! If you want, you can test it!
 -------------------
 Note that when you finish everything, and run your installer, the file "main.zip" that you created, will no longer exist. This is because your program files are moved into Afurbly, and are encrypted, stored, compressed and hidden, thanks to SwankyNoob's LubryZT technology.
 
